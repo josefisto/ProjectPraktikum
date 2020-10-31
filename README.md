@@ -2,7 +2,7 @@
 	BAHASA PEMROGRAMAN
 </p>
 <p align="center">
-	TUGAS TIPE DATA, VARIABLE, OPERATOR
+	TIPE DATA, VARIABEL, OPERATOR
 </p>
 <p align="center">
 	Dosen : Agung Nugroho, M.Kom
@@ -42,17 +42,63 @@
 	<b>TA 2020 / 2021</b>
 </p>
 
-# Tipe Data, Variable, Operator
+---
+# Tipe Data, Variabel, Operator
 
-Pada repository kali ini saya akan memberikan penjelasan pada Latihan dari materi Pert-6 yaitu Lab 1 dan Lab 2 yang terdiri dari Tipe Data, Variable, Operator.
+Pada repository kali ini saya akan memberikan penjelasan pada Latihan dari materi Pert-6 yaitu Lab 1 dan Lab 2 yang terdiri dari Tipe Data, Variabel, Operator.
 
 **Daftar Isi**
-* [Lab 1](#Lab_1)
-  * [Penggunaan End](#Penggunaan_End)
-  * [Penggunaan Separator](#Penggunaan_Separator)
-  * [](#)
-* [Lab 2](#Lab_2)
+- [Tipe Data, Variabel, Operator](#tipe-data-variabel-operator)
+- [Lab 1](#lab-1)
+	- [Penggunaan End](#penggunaan-end)
+	- [Penggunaan Separator](#penggunaan-separator)
+	- [Penggunaan pada String Format](#penggunaan-pada-string-format)
 
-## Lab 1
+# Lab 1
 
-Pada perintah print("...") merupakan perintah output yang berkerja sebagai memberikan hasil dari bentuk kalimat ataupun yang dibuat pada dalam tanda kurung setelah pada awal kutip dua dan bisa juga di tambahkan simbol perhitungan pada print (...)
+Perintah `print('...')` merupakan perintah yang berfungsi untuk menunjukkan hasil pada layar baru atau output.
+
+## Penggunaan End
+
+`Penggunaan End` merujuk pada cetak akhir baris atau baris baru pada kalimat atau paragraf. 
+
+ Pada perintah python di atas :
+
+- `print('A', end='')`, 
+- `print('B', end='')`,
+- `print('C', end='')`,
+- `print()`
+- `print('X')`
+- `print('Y')`
+- `print('Z')`
+
+menunjukkan perintah bahwa ;
+- A,B,C adalah garis baru "`end=''`" nantinya menyambung dengan variabel lanjutannya atau kalimat. Maka hasil yang akan keluar pada Output menjadi "ABC".
+- jika X, Y, Z di print maka hasil dicetak menjadi baris baru di setiap paragrafnya. Maka hasil akan menjadi pada gambar di bawah ini.
+
+## Penggunaan Separator
+
+`Penggunaan Separator` merupakan tanda pemisah dari objek yang dicetak atau menjadi satu kalimat yang mempunyai jarak penulisan setiap barisnya.
+
+Pada perintah python di atas :
+
+- `w, x, y, z = 10, 15, 20, 25`
+- `print(w, x, y ,z)`
+- `print(w, x, y, z, sep=',')`
+- `print(w, x, y, z, sep='')`
+- `print(w, x, y, z, sep=':')`
+- `print(w, x, y, z, sep='-----')`
+
+menunjukkan perintah bahwa :
+
+- Diketahui bahwa w adalah 10, x adalah 15, y adalah 20, z adalah 25.
+- Jika `w, x, y, z` diprintkan maka menjadi `10 15 20 25`.
+- Jika `w, x, y, z` di separatorkan dengan tanda koma `(,)` pada setiap angka merupakan dari variabel dan diprintkan maka hasil pada output menjadi `10,15,20,25`.
+- Jika `w, x, y, z` di gabungkan pada setiap angka merupakan dari variabel dan diprintkan maka hasil pada output menjadi `10152025`.
+-  Jika `w, x, y, z` di separatorkan dengan tanda titik dua `(:)` pada setiap angka merupakan dari variabel  dan diprintkan maka hasil pada output menjadi `10:15:20:25`.
+-  Jika `w, x, y, z` di separatorkan dengan tanda strip `(-)` pada setiap angka merupakan dari variabel  dan diprintkan maka hasil pada output menjadi `10-----15-----20-----25`.
+
+Atau hasil bisa dilihat pada gambar dibawah ini
+
+## Penggunaan pada String Format
+
