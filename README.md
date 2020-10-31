@@ -102,3 +102,21 @@ Atau hasil bisa dilihat pada gambar dibawah ini
 
 ## Penggunaan pada String Format
 
+String format di gunakan sebagai konversi data ke bentuk string sebagai contoh bila 2 merupakan pangkat, dan 4 adalah angka, maka 4 pangkat 2 yaitu 16.
+
+pada perintah python di atas :
+
+- print(0, 10**0)
+- print(1, 10**1)
+- print(2, 10**2)
+- print(3, 10**3)
+- print(4, 10**4)
+- print(5, 10**5)
+- print(6, 10**6)
+- print(7, 10**7)
+- print(8, 10**8)
+- print(9, 10**9)
+- print(10, 10**10)
+
+menunjukkan perintah bahwa :
+
