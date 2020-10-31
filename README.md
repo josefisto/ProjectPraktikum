@@ -62,9 +62,9 @@ Perintah `print('...')` merupakan perintah yang berfungsi untuk menunjukkan hasi
 
 `Penggunaan End` merujuk pada cetak akhir baris atau baris baru pada kalimat atau paragraf. 
 
-[Penggunaan End](Lab1/ScreenShot_Output_Lab1/Penggunaan-END.png)
+![Penggunaan End](Lab1/ScreenShot_Lab1/Perintah_Penggunaan-END.png)
 
- Pada perintah python di atas :
+ Pada perintah python di atas, untuk lebih jelasnya, yaitu :
 
 - `print('A', end='')`, 
 - `print('B', end='')`,
@@ -76,15 +76,19 @@ Perintah `print('...')` merupakan perintah yang berfungsi untuk menunjukkan hasi
 
 menunjukkan perintah bahwa ;
 - A,B,C adalah garis baru "`end=''`" nantinya menyambung dengan variabel lanjutannya atau kalimat. Maka hasil yang akan keluar pada Output menjadi "ABC".
-- jika X, Y, Z di print maka hasil dicetak menjadi baris baru di setiap paragrafnya. Maka hasil akan menjadi pada gambar di bawah ini.
+- jika X, Y, Z di print maka hasil dicetak menjadi baris baru di setiap paragrafnya.
+
+ Maka hasil akan menjadi pada gambar di bawah ini.
+
+![Penggunaan End](Lab1/ScreenShot_Lab1/Output_Penggunaan-END.png)
 
 ## Penggunaan Separator
 
 `Penggunaan Separator` merupakan tanda pemisah dari objek yang dicetak atau menjadi satu kalimat yang mempunyai jarak penulisan setiap barisnya.
 
-[]()
+![Penggunaan Separator](Lab1/ScreenShot_Lab1/Perintah_Penggunaan_Separator.png)
 
-Pada perintah python di atas :
+Pada perintah python di atas, untuk lebih jelasnya, yaitu :
 
 - `w, x, y, z = 10, 15, 20, 25`
 - `print(w, x, y ,z)`
@@ -102,13 +106,15 @@ menunjukkan perintah bahwa :
 -  Jika `w, x, y, z` di separatorkan dengan tanda titik dua `(:)` pada setiap angka merupakan dari variabel  dan diprintkan maka hasil pada output menjadi `10:15:20:25`.
 -  Jika `w, x, y, z` di separatorkan dengan tanda strip `(-)` pada setiap angka merupakan dari variabel  dan diprintkan maka hasil pada output menjadi `10-----15-----20-----25`.
 
-Atau hasil bisa dilihat pada gambar dibawah ini
+Atau hasil bisa dilihat pada gambar dibawah ini.
+
+![Penggunaan Separator](Lab1/ScreenShot_Lab1/Output_Penggunaan_Separator.png)
 
 ## Penggunaan pada String Format
 
 String format di gunakan sebagai konversi data ke bentuk string sebagai contoh bila 2 merupakan pangkat, dan 4 adalah angka, maka 4 pangkat 2 yaitu 16 maka konversi data tersebut termasuk jenis perpangkatan.
 
-[]()
+![Penggunaan pada String Format](Lab1/ScreenShot_Lab1/Perintah_Penggunaan_String_Format(1).png)
 
 pada perintah python di atas :
 
@@ -126,31 +132,37 @@ pada perintah python di atas :
 
 menunjukkan perintah bahwa :
 
-1. print jika 0 merupakan pangkat, maka 10 adalah angka dengan pangkat 0. dan hasil yang keluar pada output adalah 1.
+1. Jika `0` merupakan perpangkatan, maka `10` adalah angka dengan pangkat `0`. dan di cetak maka hasil yang keluar pada output adalah `1`.
 
-2. print jika 1 merupakan pangkat, maka 10 adalah angka dengan pangkat 1. dan hasil yang keluar pada output adalah 10.
+2. Jika `1` merupakan perpangkatan, maka `10` adalah angka dengan pangkat `1`. dan di cetak maka hasil yang keluar pada output adalah `10`.
 
-3. print jika 2 merupakan pangkat, maka 10 adalah angka dengan pangkat 2. dan hasil yang keluar pada output adalah 100.
+3. Jika `2` merupakan perpangkatan, maka `10` adalah angka dengan pangkat `2`. dan di cetak maka hasil yang keluar pada output adalah `100`.
 
-4. print jika 3 merupakan pangkat, maka 10 adalah angka dengan pangkat 3. dan hasil yang keluar pada output adalah 1000.
+4. Jika `3` merupakan perpangkatan, maka `10` adalah angka dengan pangkat `3`. dan di cetak maka hasil yang keluar pada output adalah `1000`.
 
-5. print jika 4 merupakan pangkat, maka 10 adalah angka dengan pangkat 4. dan hasil yang keluar pada output adalah 10000.
+5. Jika `4` merupakan perpangkatan, maka `10` adalah angka dengan pangkat `4`. dan di cetak maka hasil yang keluar pada output adalah `10000`.
 
-6. print jika 5 merupakan pangkat, maka 10 adalah angka dengan pangkat 5. dan hasil yang keluar pada output adalah 100000.
+6. Jika `5` merupakan perpangkatan, maka `10` adalah angka dengan pangkat `5`. dan di cetak maka hasil yang keluar pada output adalah `100000`.
 
-7. print jika 6 merupakan pangkat, maka 10 adalah angka dengan pangkat 6. dan hasil yang keluar pada output adalah 1000000.
+7. Jika `6` merupakan perpangkatan, maka `10` adalah angka dengan pangkat `6`. dan di cetak maka hasil yang keluar pada output adalah `1000000`.
 
-8. print jika 7 merupakan pangkat, maka 10 adalah angka dengan pangkat 7. dan hasil yang keluar pada output adalah 100.000.000.
+8. Jika `7` merupakan perpangkatan, maka `10` adalah angka dengan pangkat `7`. dan di cetak maka hasil yang keluar pada output adalah `100000000`.
 
-9. print jika 8 merupakan pangkat, maka 10 adalah angka dengan pangkat 8. dan hasil yang keluar pada output adalah 10.000.0000.
+9. Jika `8` merupakan perpangkatan, maka `10` adalah angka dengan pangkat `8`. dan di cetak maka hasil yang keluar pada output adalah `100000000`.
 
-10. print jika 9 merupakan pangkat, maka 10 adalah angka dengan pangkat 9. dan hasil yang keluar pada output adalah 1.000.000.000.
+10. Jika `9` merupakan perpangkatan, maka `10` adalah angka dengan pangkat `9`. dan di cetak maka hasil yang keluar pada output adalah `1000000000`.
 
-11. print jika 10 merupakan pangkat, maka 10 adalah angka dengan pangkat 10. dan hasil yang keluar pada output adalah 10.000.000.000.
+11. Jika 10 merupakan perpangkatan, maka 10 adalah angka dengan pangkat 10. dan di cetak maka hasil yang keluar pada output adalah 10000000000.
 
-[]()
+Maka jika perintah dijalankan hasil yang keluar ialah :
 
-pada perintah di atas merupakan jenis konversi data perpangkatan yang mempunyai jarak antar baris yang disejajarkan dengan yang lain, yaitu :
+![Penggunaan String Format](Lab1/ScreenShot_Lab1/Output_Penggunaan_String_Format(1).png)
+
+**(Gambar di bawah merupakan lanjutan perintah pada string format)**
+
+![Penggunaan pada String Format](Lab1/ScreenShot_Lab1/Perintah_Penggunaan_String_Format(2).png)
+
+Pada perintah di atas merupakan jenis konversi data perpangkatan yang mempunyai jarak antar baris yang disejajarkan dengan yang lain, untuk lebih jelasnya yaitu :
 
 1. `print('{0:>3} {1:>16}'.format(0, 10**0))`
 2. `print('{0:>3} {1:>16}'.format(1, 10**1))`
@@ -190,7 +202,7 @@ Menyatakan bahwa :
 
 Jika perintah di atas dijalankan maka outputnya, yaitu :
 
-[]()
+![Penggunaan String Format](Lab1/ScreenShot_Lab1/Output_Penggunaan_String_Format(2).png)
 
 # Lab 2
 
