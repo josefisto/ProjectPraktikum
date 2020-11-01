@@ -1,1 +1,0 @@
-#Latihan - Lab 1
