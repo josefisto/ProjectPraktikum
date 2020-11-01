@@ -249,8 +249,8 @@ Operasi operator di atas meliputi Operator Aritmatika, yaitu ; Pertambahan (+), 
 
 perintah atas dapat dinyatakan :
 
-1. bahwa a adalah 5, dimana 5 merupakan koefisien dari variabel a.
-2. bahwa b adalah 10, dimana 5 merupakan koefisien dari variabel b.
+1. bahwa `a` adalah `5`, dimana `5` merupakan koefisien dari variabel `a`.
+2. bahwa `b` adalah `10`, dimana `5` merupakan koefisien dari variabel `b`.
 3. jika di bentukkan dalam jenis operator, maka `hasil penjumlahan {1}+{0}=%d`, dimana 1 adalah variabel b yang bernilai 10, lalu di tambahkan `(+)` dan 0 adalah variabel a yang bernilai 5, maka hasil di sisa bagi `=%d`, dimana d adalah hasil dari nilai variabel b di jumlahkan dengan nilai variabel a. Lalu tampilkan hasil dengan di formatkan `(a,b) %(a+b)`. Maka ouput yang keluar ialah `15`.
 4. jika di bentukkan dalam jenis operator, maka `hasil penjumlahan {1}/{0}=%d`, dimana 1 adalah variabel b yang bernilai 10, lalu di bagikan `(/)` dan 0 adalah variabel a yang bernilai 5, maka hasil di sisa bagi `=%d`, dimana d adalah hasil dari nilai variabel b di bagikan `(/)` dengan nilai variabel a. Lalu tampilkan hasil dengan di formatkan `(a,b) %(a/b)`. Maka ouput yang keluar ialah `15`.
 
