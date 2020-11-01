@@ -257,3 +257,5 @@ perintah atas dapat dinyatakan :
 Jika di tampilkan di layar terminal maka hasil dikeluarkan tertera pada gambar dibawah ini.
 
 ![Konversi Nilai Bilangan](Lab2/ScreenShot_Lab2/Output_Lab2(2).png)
+
+aaa
