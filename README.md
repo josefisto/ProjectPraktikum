@@ -212,7 +212,7 @@ Jika perintah di atas dijalankan maka layar yang ditampilkan, yaitu :
 
 # Lab 2
 
-![Lab2](Lab2/Screenshot_Lab2/Perintah_Lab2(1).png)
+![Lab2](Lab2/ScreenShotLab2/Perintah(1).png)
 
 Perintah di atas merupakan tipe data, variable, dan operator.
 
@@ -232,13 +232,13 @@ Pada perintah di atas menyatakan, bahwa :
 
 Berikut ini adalah hasil tampilan di terminal.
 
-![Operasi Operator](Lab2/ScreenShot_Lab2/Output_Lab2(1).png)
+![Operasi Operator](Lab2/ScreenShotLab2/Output(1).png)
 
 ## Konversi Nilai Bilangan
 
 Konversi Nilai Bilangan di bawah merupakan bentuk dari operasi operator dari tipe Arithmetic Operators dan Assignment Operators. 
 
-![Konversi Nilai Bilangan](Lab2/ScreenShot_Lab2/Perintah_Lab2 - Ke 2.png)
+![Konversi Nilai Bilangan](Lab2/ScreenShotLab2/Perintah(2).png)
 
 Operasi operator di atas meliputi Operator Aritmatika, yaitu ; Pertambahan (+), dan Pembagian (/), dan diliputi Operator Penugasan, yaitu sisa bagi (%).
 
@@ -256,6 +256,4 @@ perintah atas dapat dinyatakan :
 
 Jika di tampilkan di layar terminal maka hasil dikeluarkan tertera pada gambar dibawah ini.
 
-![Konversi Nilai Bilangan](Lab2/ScreenShot_Lab2/Output_Lab2 - Ke 2.png)
-
-aaa
+![Konversi Nilai Bilangan](Lab2/ScreenShotLab2/Output(2).png)
