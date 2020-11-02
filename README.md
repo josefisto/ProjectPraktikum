@@ -237,7 +237,7 @@ sintaks yang muncul di atas yaitu `Traceback (most recent call last):` dijelaska
 
 `TypeError: %d format: a number is required, not str` pada sintaks tersebut dapat di nyatakan sebagai `syntax error`, karena Error terjadi adanya kesalahan struktur (sintaks) pada program. Apabila, jika variabel `d` diganti dengan variabel `a` yang disesuaikan oleh intruksikan dari syntax di atas, maka pernyataan yang benar adalah : (syntax yang benar ada pada gambar di bawah ini).
 
-![apabila variabel d di ubah menjadi variabel a](lab2/ScreenShotLab2/SyntaxFix.png)
+![apabila %d di ubah menjadi %a](Lab2/ScreenShotLab2/SyntaxFix.png)
 
 1. `a=input("masukkan nilai a:")`
 2. `b=input("masukkan nilai b:")`
