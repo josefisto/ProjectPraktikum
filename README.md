@@ -229,7 +229,9 @@ Pada perintah di atas menyatakan, bahwa :
 4. jika b sudah di tentukan angkanya dapat dinyatakan sebagai tipe data integer, maka variabel b ialah (angka yang sudah ditentukan sendiri).
 5. hasil penggabungan `{1}&{0}=%d` dimana 1 merupakan data nilai b, dan 0 adalah tipe data nilai a, jika di sisa bagi-kan ke d hasil yang keluar ialah `Traceback (most recent call last):` atau selengkapnya bisa lihat pada gambar di bawah ini.
 
+
 ![Syntax Error](Lab2/ScreenShotLab2/SyntaxError.png)
+
 
 sintaks yang muncul di atas yaitu `Traceback (most recent call last):` dijelaskan adanya masalah yang perlu di perbaiki maka di telurusi pada syntax yang ada pada module yaitu pada baris ke 5, `print("hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b))`. 
 
