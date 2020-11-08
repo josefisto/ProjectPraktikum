@@ -42,7 +42,8 @@
 	<b>TA 2020 / 2021</b>
 </p>
 
----
+![]()
+
 # Tipe Data, Variabel, Operator
 
 Pada repository kali ini saya akan memberikan penjelasan pada Latihan pada halaman akhir dari materi Pert-6 yaitu Lab 1 dan Lab 2 yang terdiri dari Tipe Data, Variabel, Operator.

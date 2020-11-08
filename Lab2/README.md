@@ -42,6 +42,8 @@
 	<b>TA 2020 / 2021</b>
 </p>
 
+![]()
+
 # Lab 2
 
 ![Lab2](ScreenShotLab2/Perintah(1).png)
