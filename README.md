@@ -46,7 +46,7 @@
 
 Tabel di bawah ini merupakan Tugas di Setiap Pertemuan
 
-| Pertemuan | Materi | Latihan Soal | Penjelasan Soal Latihan |
-| --------- | ------ | ------------ | ----------------------- |
-| Pertemuan ke 6 | Tipe Data, Variable dan Operator | [](myLab/lab1/../../Lab1/README.md)
+|    Pertemuan   |                   Materi         | Latihan Soal | Penjelasan Soal Latihan |
+| -------------- | -------------------------------- | ------------ | ----------------------- |
+| Pertemuan ke 6 | Tipe Data, Variable dan Operator | [](Lab1/Lab1.py)
 | Pertemuan ke 6 | Tipe Data, Variable dan Operator | []()
