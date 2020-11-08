@@ -8,7 +8,7 @@
 	Dosen : Agung Nugroho, M.Kom
 </p>
 <p align="center"> 
-	<b>Tugas untuk memenuhi syarat penilain pada Pert-6</b>
+	<b>Tugas untuk memenuhi syarat penilain</b>
 </p>
 
 <p align="center">
@@ -50,3 +50,4 @@ Tabel di bawah ini merupakan Tugas di Setiap Pertemuan
 | -------------- | -------------------------------- | ------------ | --------------------------- |
 | Pertemuan ke 6 | Tipe Data, Variable dan Operator |     Lab1     | [README.md](Lab1/README.md) |
 | Pertemuan ke 6 | Tipe Data, Variable dan Operator |     Lab2     | [README.md](Lab2/README.md) |
+| Pertemuan ke 7 |    Kondisional dan Perulangan    |     Lab3     | [README.md](Lab3/README.md) |
